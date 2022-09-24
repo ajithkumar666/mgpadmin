@@ -124,13 +124,13 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="app/view/files_all.php" class="nav-link active">
+                                    <a href="files_all.php" class="nav-link active">
                                         <i class="far fa-circle text-warning"></i>
                                         <p>All Files</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="app/view/files_destroyed.php" class="nav-link">
+                                    <a href="files_destroyed.php" class="nav-link">
                                         <i class="far fa-circle text-warning"></i>
                                         <p>Distroyed Files</p>
                                     </a>
