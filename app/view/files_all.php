@@ -25,7 +25,6 @@
   <link rel="stylesheet" href="plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
   <link rel="stylesheet" href="plugins/summernote/summernote-bs4.min.css">
-</head>
 
 <?php
 echo '<body class="hold-transition sidebar-mini layout-fixed">
@@ -92,4 +91,5 @@ echo '<body class="hold-transition sidebar-mini layout-fixed">
     <!-- /.card-body -->
   </div>';
 ?>
+</head>
 </html>
